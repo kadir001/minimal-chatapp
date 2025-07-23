@@ -1,3 +1,6 @@
+https://kadir001.github.io/minimal-chatapp
+
+
 # Simple Chat App (GitHub Pages + Firebase)
 
 A minimal chat app with a static frontend (hosted on GitHub Pages) and a realtime backend (Firebase).
