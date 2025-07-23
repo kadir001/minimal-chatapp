@@ -1,6 +1,6 @@
 // 1. Replace these with your Firebase project config
 const firebaseConfig = {
-  apiKey: "your own key",
+  apiKey: "AIzaSyACKwA0lhyma_DOenzBXzhzO73PG1c9JZM",
   authDomain: "minimal-chatapp-c5738.firebaseapp.com",
   databaseURL: "https://minimal-chatapp-c5738-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "minimal-chatapp-c5738",
